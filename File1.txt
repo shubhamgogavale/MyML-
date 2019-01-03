@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-***this is a file1...!!
-=======
-this is a file1...!!
->>>>>>> bug123
 Welcome to Git....!!!
 
 
-
-<<<<<<< HEAD
 888Change 1
 
 
 
 
-****Change2
-=======
 Change ----> 1
 Change ----> 2
->>>>>>> bug123
+Change ----> 3
